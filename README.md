@@ -1,6 +1,20 @@
 # Rocket.Chat.App-Gag
 Rocket.Chat app to mute and unmute  (gag, and ungag) users for a period of time.
 
+## Screenshots
+
+### Spammer View
+
+![Spammer View](gag-spammer-view.jpg?raw=true "Spammer View")
+
+### Gagger View
+
+```
+/gag @test 10m Please do not spam links to bad websites. I've warned you 3 times already.
+```
+
+![Gagger View](gag-gagger-view.jpg?raw=true "Gagger View")
+
 ## 🚀 Getting Started
 
 After installing from the Rocket.Chat Apps marketplace:
